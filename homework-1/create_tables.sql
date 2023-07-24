@@ -21,3 +21,4 @@ CREATE TABLE orders (
     order_date date,
     ship_city varchar(100)
 )
+
